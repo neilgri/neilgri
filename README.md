@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Azure
+- ⚡ Fun fact: I'm british and live in Denmark
+
 <!--
 **neilgri/neilgri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
